@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Workspace",
+  "description": "Enterprise-grade multi-tenant invoice management system with customer records, decimal-safe lifecycle tracking, role-based controls, audit trails, and platform control plane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
